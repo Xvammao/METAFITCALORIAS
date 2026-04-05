@@ -1,0 +1,15 @@
+{
+  "name": "metafit-calorias",
+  "version": "1.0.0",
+  "description": "MetaFit Calorias App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
